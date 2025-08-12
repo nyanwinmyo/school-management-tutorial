@@ -3,3 +3,4 @@
 # Modules
 
 - [x] user
+- [x] subject

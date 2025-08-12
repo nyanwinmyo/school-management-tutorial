@@ -2,5 +2,19 @@
 
 # Modules
 
-- [x] user
-- [x] subject
+- [x] User
+- [x] Subject
+- [ ] Timetable
+- [ ] Exam
+- [ ] Mark
+
+# Steps
+
+- [ ] Migration
+- [ ] Seeder
+- [ ] Model
+- [ ] Filament Resources
+- [ ] Column
+- [ ] Form
+
+

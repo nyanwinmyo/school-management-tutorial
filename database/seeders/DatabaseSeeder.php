@@ -2,9 +2,11 @@
 
 namespace Database\Seeders;
 
+use App\Models\TimeTable;
 use App\Models\User;
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Ramsey\Uuid\Type\Time;
 
 class DatabaseSeeder extends Seeder
 {
@@ -23,6 +25,7 @@ class DatabaseSeeder extends Seeder
             RoleSeeder::class,
             UserSeeder::class,
             SubjectSeeder::class,
+            TimeTableSeeder::class,
         ]);
     }
 }

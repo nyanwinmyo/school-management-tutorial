@@ -4,7 +4,7 @@
 
 - [x] User
 - [x] Subject
-- [ ] Timetable
+- [x] Timetable
 - [ ] Exam
 - [ ] Mark
 
